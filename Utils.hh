@@ -72,5 +72,4 @@ public:
     std::cout << std::chrono::duration <double, T> (diff).count() << " ms" << std::endl;
   }
 };
-
 #endif
